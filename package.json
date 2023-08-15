@@ -20,6 +20,7 @@
   "homepage": "https://github.com/alpaternina/Paternina_Alvaro_desafio1_Backend43330#readme",
   "description": "",
   "dependencies": {
+    "@faker-js/faker": "^8.0.2",
     "add": "^2.0.6",
     "bcrypt": "^5.1.0",
     "connect": "^3.7.0",

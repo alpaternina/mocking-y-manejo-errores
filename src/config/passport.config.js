@@ -2,7 +2,7 @@ import fetch from 'node-fetch';
 import passport from 'passport';
 import GitHubStrategy from 'passport-github2';
 import local from 'passport-local';
-import { UserModel } from '../DAO/models/users.Model.js';
+import { UserModel } from '../DAO/models/users.model.js';
 import { createHash, isValidPassword } from '../utils.js';
 import { CartService } from '../services/carts.service.js';
 
